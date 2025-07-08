@@ -1,10 +1,6 @@
 # Group: CECS-savages
 # CS50 Summer 2025, Activities 3-4
 
-## Activity 3
-
-![Visualizing Git](./VisualizingGit.png)
-
 ## Activity 4 Part 1
 ```
 #include <stdio.h>
