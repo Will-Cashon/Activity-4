@@ -1,5 +1,5 @@
 # Group: CECS-savages
-# CS50 Summer 2025, Activities 3-4
+# CS50 Summer 2025, Activity 4
 
 ## Activity 4 Part 1
 ```
